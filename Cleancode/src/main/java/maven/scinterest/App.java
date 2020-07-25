@@ -1,7 +1,7 @@
 package maven.scinterest;
 
 /**
- * Hello world!
+ * Clean Code
  *
  */
 public class App 
